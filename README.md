@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Yossi 👋
 
-<!--
-**yossimanzur/yossimanzur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer with a B.Sc. in Computational Biology from
+Bar-Ilan University and intensive hands-on software engineering
+training at Infinity Labs R&D.
 
-Here are some ideas to get you started:
+My main interests are backend development, Linux systems,
+and building reliable software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technical Skills
+
+- **Languages:** C, C++, Python, TypeScript, JavaScript, SQL
+- **Systems:** Linux, Operating Systems, Multithreading, Networking
+- **Backend:** Node.js, Express, PostgreSQL, REST APIs
+- **Tools:** Git, Docker, Debugging, Testing
+- **AI:** OpenAI APIs, LangGraph, MCP
+
+## 🚀 Selected Projects
+
+### AI Banking Application
+A deployed full-stack banking simulation built with
+React, TypeScript, Node.js, Express, and PostgreSQL.
+
+Includes authentication, transaction management, transfers,
+and an AI assistant with explicit user approval for transfers.
+
+🔗 [Live Application](https://banking.yossimanzur.com)
+
+### IOTIS — Distributed Storage System
+A C++ project developed during my software engineering training,
+focused on distributed storage, networking, multithreading,
+and modular system architecture.
+
+*Source code is not publicly available.*
+
+### MEIG1 — Genomic Data Analysis
+An academic research project involving genomic and gene-expression
+data analysis using Python and statistical methods.
+
+## 📫 Connect
+
+- 🌐 [Portfolio](https://yossimanzur.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yossi-manzur/)
